@@ -1,4 +1,4 @@
-package chapter1;
+package chapter5;
 
 public class pattern {
     public static void main(String[] args){
