@@ -1,4 +1,4 @@
-package chapter1;
+package chapter1.Variable_and_datatype;
 import java.util.Scanner;
 public class exercise_1 {
    public static void main(String[] args) {

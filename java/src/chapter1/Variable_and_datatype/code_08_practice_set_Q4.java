@@ -1,4 +1,4 @@
-package chapter1;
+package chapter1.Variable_and_datatype;
 //Q4. write a program to convert kilometer to miles..
 import java.util.Scanner;
 public class code_08_practice_set_Q4 {

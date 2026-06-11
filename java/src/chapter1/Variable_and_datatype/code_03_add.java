@@ -1,4 +1,4 @@
-package chapter1;
+package chapter1.Variable_and_datatype;
 
 public class code_03_add {
      public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package chapter1;
+package chapter1.Variable_and_datatype;
 //Q3. write a program which ask the user to enter his / her name and
 // greet them with "hello <name> have a good day"text
 import java.util.Scanner;

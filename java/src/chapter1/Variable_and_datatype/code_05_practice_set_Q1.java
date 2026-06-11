@@ -1,4 +1,4 @@
-package chapter1;
+package chapter1.Variable_and_datatype;
 // Q1 .write a program to sum three numbers in java
 
 public class code_05_practice_set_Q1 {

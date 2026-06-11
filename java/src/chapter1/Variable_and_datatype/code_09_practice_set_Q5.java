@@ -1,4 +1,4 @@
-package chapter1;
+package chapter1.Variable_and_datatype;
 //Q5. write a java program to detcet whether a number is entered by user is integer or not.
 import java.util.Scanner;
 public class code_09_practice_set_Q5 {

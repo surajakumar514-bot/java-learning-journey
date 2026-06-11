@@ -1,4 +1,4 @@
-package chapter1;
+package chapter1.Variable_and_datatype;
 //Q2. write a program to calculate percentage using marks of there subject
 public class code_06_practice_set_Q2 {
     public static void main(String[] args) {
